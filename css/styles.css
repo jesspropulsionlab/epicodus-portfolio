@@ -1,9 +1,13 @@
 .favorite-things {
   background-color: #BDE9C9;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-right: 12px;
+  padding-left: 6px;
 }
 
 .about-me {
   background-color: #E1B6A1;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .about-me h2 {
@@ -14,3 +18,7 @@
   padding-right: 16px
 }
 
+.tools {
+  background-color: #F7E6E3;
+  font-style: oblique;
+}
