@@ -3,5 +3,14 @@
 }
 
 .about-me {
-  background-color: #DCA59C;
+  background-color: #E1B6A1;
 }
+
+.about-me h2 {
+  text-align: center;
+}
+
+.about-me ul {
+  padding-right: 16px
+}
+
